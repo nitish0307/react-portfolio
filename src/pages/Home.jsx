@@ -1,5 +1,5 @@
 export const Home = () => {
-  return <div> Home
+  return <div> This is the Home
 
     {/* Theme Toggle */}
     {/* Background Effects */}
